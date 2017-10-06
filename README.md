@@ -23,4 +23,4 @@
         path: '/resources',
     }));
 
-To get all requests into one run GET /resources?users=api/users&customer=api/customer/23&countries=api/countries 
+To get all requests into one run **GET** /resources?users=api/users&customer=api/customer/23&countries=api/countries 
