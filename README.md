@@ -20,7 +20,7 @@
     app = express();
     app.use(middleware({
         source: 'http://localhost/',
-    	path: '/resources',
+        path: '/resources',
     }));
 
 To get all requests into one run GET /resources?users=api/users&customer=api/customer/23&countries=api/countries 
